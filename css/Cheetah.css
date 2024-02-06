@@ -25,7 +25,7 @@ img{
 
 
 
-  .black-button {
+.black-button {
     display: inline-block;
     padding: 10px 20px;
     font-size: 16px;
@@ -40,7 +40,7 @@ img{
     transition: background-color 0.3s, color 0.3s, border-color 0.3s;
   }
 
-  .black-button:hover {
+.black-button:hover {
     background-color: #333;
     border-color: #333;
   }
